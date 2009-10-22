@@ -1,0 +1,20 @@
+---
+abstract: 'update tickets without credentials using a link'
+author:
+  - 'Ruslan Zakirov <Ruslan.Zakirov@gmail.com>'
+distribution_type: module
+generated_by: 'Module::Install version 0.79'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: RT-Extension-ViaLink-UpdateTicket
+no_index:
+  directory:
+    - html
+    - inc
+requires:
+  perl: 5.8.3
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.02
